@@ -1,5 +1,11 @@
 #!/bin/bash
 
+##################
+# Old version
+# use RefSeq_dbBuilder.sh
+##################
+
+
 # This script was written as part of the protocols for developing strain specific primers (SSPs). It downloads complete-genome assemblies from a user provided list. The records must be in the correct format for downloading from the NCBI/RefSeq database. One or more files can be added as arguments when executing this script.
 
 # This script works from the command line with one or more arguments passed as files in the tab-separated values (.tsv) format.
