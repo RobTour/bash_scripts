@@ -1,5 +1,10 @@
 #!/bin/bash
 
+################
+# Old version
+# Use shred_500bp.sh
+################
+
 pathShred="/mnt/c/Users/tournay/Documents/bbtools/bbmap/shred.sh"
 pathFiles="1$/*"
 
